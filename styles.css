@@ -3,7 +3,7 @@ body{
 #yellow{
 	background:rgb(255, 255, 0);
 	border-width:1px;
-	border-color:rgb(0, 255, 0);
+	border-color:rgb(0, 128, 0);
 	border-style:solid;
 }
 #red{
@@ -13,7 +13,7 @@ body{
 	border-style:solid;
 }
 #green{
-	background:rgb(0, 255, 0);
+	background:rgb(0, 128, 0);
 	border-width:1px;
 	border-color:rgb(255, 255, 0);
 	border-style:solid;
