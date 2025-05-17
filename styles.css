@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-body{
+
 #yellow{
 	background:rgb(255, 255, 0);
 	border-width:1px;
@@ -18,4 +18,4 @@ body{
 	border-color:rgb(255, 255, 0);
 	border-style:solid;
 }
-}
+
